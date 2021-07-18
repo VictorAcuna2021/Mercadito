@@ -1,0 +1,71 @@
+
+
+main form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #ebebeb;
+    padding-bottom: 30px;
+    
+}
+.element-register-form {
+    max-width: 720px;
+    width: 90%;
+    margin-top: 30px;
+}
+.element-register-form input{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0 solid;
+}
+.interes{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.check-register{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 10px 0px;
+}
+.check-register input{
+    max-width: 20px;
+    margin:0px 20px;
+}
+
+
+.user-perfil{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.name-category{
+    width: 100%;
+    font-weight: bold;
+    margin: 20px 0px;
+}
+input[type="date"] {
+    margin-top: 20px;
+}
+
+.buttom-blue{
+    border: 0px;
+    padding: 10px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #ebebeb;
+    background-color: #1259c3;
+}
+
+
+.buttom-green{
+    border: 0px;
+    padding: 10px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #ebebeb;
+    background-color: #39b54a;
+}
